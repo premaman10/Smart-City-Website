@@ -7,7 +7,6 @@ A smart city website serves as a central digital hub for residents, businesses, 
 
 2.CSS
 
-3.Javascript
 ## Features
 1.Homepage: The homepage serves as the gateway to the website, featuring dynamic content such as highlights of recent initiatives or achievements within the city.
 
@@ -19,3 +18,4 @@ A smart city website serves as a central digital hub for residents, businesses, 
 
 5.Know About Us: You can know about our team members who have helped us to complete this web project.
 ## Demo
+https://premaman10.github.io/Smart-City-Website/
